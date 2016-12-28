@@ -1,0 +1,1 @@
+### Temporary server for collecting and storing data from DHT 22
